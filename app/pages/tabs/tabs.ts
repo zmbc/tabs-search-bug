@@ -7,8 +7,6 @@ import { HomePage } from '../home/home';
 export class TabsPage {
 
   public tab1Root: any;
-  public tab2Root: any;
-  public tab3Root: any;
 
   constructor() {
     // this tells the tabs component which Pages
